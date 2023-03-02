@@ -6,7 +6,7 @@ I am a student of Frontend-Development at CDV in Poznań. My goal is to learn ho
 
 On this profile, you'll find a collection of my projects. Each project includes a brief description, relevant technologies used, and a link to the source code.
 
-<h3> 💽 Languages and Tools </h3>
+<h3> 💽 Languages and Tools I use</h3>
 
 <img align='left' alt='HTML' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align='left' alt='CSS' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
