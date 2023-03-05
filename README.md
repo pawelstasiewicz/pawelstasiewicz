@@ -7,7 +7,7 @@
 
 
 Welcome to my page!<br/>
-My name is Paweł and I am a student of Frontend-Development at CDV in Poznań. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
+My name is Paweł and I am a student of Front-End Web Development at CDV in Poznań. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
 
 On this profile, you'll find a collection of my projects. Each project includes a brief description, relevant technologies used, and a link to the source code.
 
