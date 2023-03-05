@@ -1,8 +1,13 @@
-<h1 align='center'> 👋 Hi, I am Paweł Stasiewicz</h1>
+<h1 align='center'> 👋 Hi, nice to see you.</h1>
 
 💻 `Student of Frontend-Development`
 
-I am a student of Frontend-Development at CDV in Poznań. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
+[![Gmail Badge](https://img.shields.io/badge/-pst357357@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pst357357@gmail.com)](mailto:pst357357@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-pawelstasiewicz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pawelstasiewicz/)](https://www.github.com/pawelstasiewicz/) 
+
+
+Welcome to my page!<br/>
+My name is Paweł and I am a student of Frontend-Development at CDV in Poznań. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
 
 On this profile, you'll find a collection of my projects. Each project includes a brief description, relevant technologies used, and a link to the source code.
 
