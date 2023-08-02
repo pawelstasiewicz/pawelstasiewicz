@@ -1,17 +1,16 @@
-<h1 align='center'> 👋 Hi, nice to see you.</h1>
+<h1>💫 About Me:</h1>
 
-💻 `Student of Frontend-Development`
-
-[![Gmail Badge](https://img.shields.io/badge/-pst357357@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pst357357@gmail.com)](mailto:pst357357@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-pawelstasiewicz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pawelstasiewicz/)](https://www.github.com/pawelstasiewicz/) 
-
-
-Welcome to my page!<br/>
-My name is Paweł and I am a student of Front-End Web Development at CDV in Poznań. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
+My name is Paweł Stasiewicz. My goal is to learn how to code, and I am constantly expanding my skills to achieve that.
 
 On this profile, you'll find a collection of my projects. Each project includes a brief description, relevant technologies used, and a link to the source code.
 
-<h3> 💽 Languages and Tools I use:</h3>
+<h2>🌐 Socials:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paweł-stasiewicz-10132b1b8/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stasiewicz_pawe) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100013639685144) 
+
+<h2> 💽 Languages and Tools I use:</h2>
 
 <img align='left' alt='HTML' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align='left' alt='CSS' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -20,16 +19,10 @@ On this profile, you'll find a collection of my projects. Each project includes 
 <img align='left' alt='Git' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align='left' alt='Github' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
-<h3> 📱 Connect with me: </h3>
 
-<a href='https://www.linkedin.com/in/paweł-stasiewicz-10132b1b8/' target='blank'><img align='left' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href='https://twitter.com/stasiewicz_pawe' target='blank'><img align='left' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
-<a href='https://pl-pl.facebook.com/people/Paweł-Stasiewicz/100013639685144/' target='blank'><img align='left' width='30px' style='padding-right:10px' 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 <br/>
-#
-<br/>
-<p align='center'>
-<img align='center' width='47%'  src='https://github-readme-stats.vercel.app/api?username=pawelstasiewicz&show_icons=true&theme=dark'/>
-<img align='center' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=pawelstasiewicz&layout=compact'/>
-</p>
+<h2> 📊 GitHub Stats:</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=pawelstasiewicz&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pawelstasiewicz&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelstasiewicz&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
