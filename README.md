@@ -20,9 +20,3 @@ On this profile, you'll find a collection of my projects. Each project includes 
 <img align='left' alt='Github' width='30px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
 
-<br/>
-<h2> 📊 GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=pawelstasiewicz&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pawelstasiewicz&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawelstasiewicz&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
